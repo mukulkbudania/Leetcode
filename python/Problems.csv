@@ -1,0 +1,154 @@
+Number,Title,Percentage,Difficulty
+94,Binary Tree Inorder Traversal,78.5%,Easy
+95,Unique Binary Search Trees II,60.3%,Medium
+96,Unique Binary Search Trees,62.4%,Medium
+98,Validate Binary Search Tree,34.3%,Medium
+99,Recover Binary Search Tree,56.2%,Medium
+100,Same Tree,65.0%,Easy
+101,Symmetric Tree,59.2%,Easy
+102,Binary Tree Level Order Traversal,70.5%,Medium
+103,Binary Tree Zigzag Level Order Traversal,61.6%,Medium
+104,Maximum Depth of Binary Tree,77.1%,Easy
+105,Construct Binary Tree from Preorder and Inorder Traversal,66.7%,Medium
+106,Construct Binary Tree from Inorder and Postorder Traversal,65.9%,Medium
+107,Binary Tree Level Order Traversal II,65.9%,Medium
+108,Convert Sorted Array to Binary Search Tree,74.0%,Easy
+109,Convert Sorted List to Binary Search Tree,64.4%,Medium
+110,Balanced Binary Tree,55.2%,Easy
+111,Minimum Depth of Binary Tree,50.6%,Easy
+112,Path Sum,52.9%,Easy
+113,Path Sum II,60.4%,Medium
+114,Flatten Binary Tree to Linked List,68.4%,Medium
+116,Populating Next Right Pointers in Each Node,65.4%,Medium
+117,Populating Next Right Pointers in Each Node II,55.5%,Medium
+124,Binary Tree Maximum Path Sum,41.2%,Hard
+129,Sum Root to Leaf Numbers,68.4%,Medium
+144,Binary Tree Preorder Traversal,73.1%,Easy
+145,Binary Tree Postorder Traversal,75.6%,Easy
+173,Binary Search Tree Iterator,74.8%,Medium
+199,Binary Tree Right Side View,66.8%,Medium
+222,Count Complete Tree Nodes,69.8%,Easy
+226,Invert Binary Tree,79.0%,Easy
+230,Kth Smallest Element in a BST,75.2%,Medium
+235,Lowest Common Ancestor of a Binary Search Tree,68.2%,Medium
+236,Lowest Common Ancestor of a Binary Tree,66.6%,Medium
+250,Count Univalue Subtrees,57.2%,Medium
+257,Binary Tree Paths,66.4%,Easy
+270,Closest Binary Search Tree Value,49.8%,Easy
+272,Closest Binary Search Tree Value II,60.2%,Hard
+285,Inorder Successor in BST,50.6%,Medium
+297,Serialize and Deserialize Binary Tree,58.9%,Hard
+298,Binary Tree Longest Consecutive Sequence,54.1%,Medium
+314,Binary Tree Vertical Order Traversal,57.1%,Medium
+333,Largest BST Subtree,45.3%,Medium
+337,House Robber III,54.9%,Medium
+341,Flatten Nested List Iterator,65.2%,Medium
+366,Find Leaves of Binary Tree,81.1%,Medium
+404,Sum of Left Leaves,61.6%,Easy
+426,Convert Binary Search Tree to Sorted Doubly Linked List,65.5%,Medium
+428,Serialize and Deserialize N-ary Tree,68.2%,Hard
+437,Path Sum III,46.1%,Medium
+449,Serialize and Deserialize BST,58.6%,Medium
+450,Delete Node in a BST,52.9%,Medium
+501,Find Mode in Binary Search Tree,57.5%,Easy
+510,Inorder Successor in BST II,61.0%,Medium
+513,Find Bottom Left Tree Value,71.7%,Medium
+515,Find Largest Value in Each Tree Row,66.3%,Medium
+530,Minimum Absolute Difference in BST,58.8%,Easy
+536,Construct Binary Tree from String,58.4%,Medium
+538,Convert BST to Greater Tree,70.5%,Medium
+543,Diameter of Binary Tree,63.5%,Easy
+545,Boundary of Binary Tree,47.1%,Medium
+559,Maximum Depth of N-ary Tree,72.9%,Easy
+563,Binary Tree Tilt,64.0%,Easy
+572,Subtree of Another Tree,49.9%,Easy
+606,Construct String from Binary Tree,70.1%,Medium
+617,Merge Two Binary Trees,78.7%,Easy
+623,Add One Row to Tree,64.0%,Medium
+637,Average of Levels in Binary Tree,74.1%,Easy
+652,Find Duplicate Subtrees,60.1%,Medium
+653,Two Sum IV - Input is a BST,62.1%,Easy
+655,Print Binary Tree,65.5%,Medium
+662,Maximum Width of Binary Tree,44.1%,Medium
+671,Second Minimum Node In a Binary Tree,45.3%,Easy
+687,Longest Univalue Path,42.6%,Medium
+700,Search in a Binary Search Tree,81.6%,Easy
+701,Insert into a Binary Search Tree,73.4%,Medium
+703,Kth Largest Element in a Stream,59.8%,Easy
+783,Minimum Distance Between BST Nodes,60.3%,Easy
+814,Binary Tree Pruning,72.4%,Medium
+863,All Nodes Distance K in Binary Tree,66.3%,Medium
+865,Smallest Subtree with all the Deepest Nodes,72.4%,Medium
+872,Leaf-Similar Trees,70.1%,Easy
+889,Construct Binary Tree from Preorder and Postorder Traversal,78.0%,Medium
+894,All Possible Full Binary Trees,82.7%,Medium
+897,Increasing Order Search Tree,78.6%,Easy
+919,Complete Binary Tree Inserter,64.5%,Medium
+938,Range Sum of BST,87.4%,Easy
+951,Flip Equivalent Binary Trees,69.7%,Medium
+958,Check Completeness of a Binary Tree,58.3%,Medium
+968,Binary Tree Cameras,47.2%,Hard
+979,Distribute Coins in Binary Tree,77.2%,Medium
+987,Vertical Order Traversal of a Binary Tree,51.1%,Hard
+988,Smallest String Starting From Leaf,60.8%,Medium
+993,Cousins in Binary Tree,58.1%,Easy
+998,Maximum Binary Tree II,69.2%,Medium
+1008,Construct Binary Search Tree from Preorder Traversal,83.2%,Medium
+1022,Sum of Root To Leaf Binary Numbers,73.4%,Easy
+1026,Maximum Difference Between Node and Ancestor,78.0%,Medium
+1028,Recover a Tree From Preorder Traversal,83.3%,Hard
+1038,Binary Search Tree to Greater Sum Tree,88.3%,Medium
+1104,Path In Zigzag Labelled Binary Tree,75.5%,Medium
+1110,Delete Nodes And Return Forest,72.4%,Medium
+1120,Maximum Average Subtree,66.8%,Medium
+1123,Lowest Common Ancestor of Deepest Leaves,78.9%,Medium
+1161,Maximum Level Sum of a Binary Tree,67.4%,Medium
+1245,Tree Diameter,61.1%,Medium
+1305,All Elements in Two Binary Search Trees,80.0%,Medium
+1315,Sum of Nodes with Even-Valued Grandparent,85.7%,Medium
+1361,Validate Binary Tree Nodes,43.9%,Medium
+1367,Linked List in Binary Tree,51.9%,Medium
+1372,Longest ZigZag Path in a Binary Tree,66.6%,Medium
+1373,Maximum Sum BST in Binary Tree,44.1%,Hard
+1379,Find a Corresponding Node of a Binary Tree in a Clone of That Tree,85.7%,Easy
+1382,Balance a Binary Search Tree,84.6%,Medium
+1443,Minimum Time to Collect All Apples in a Tree,62.9%,Medium
+1448,Count Good Nodes in Binary Tree,73.5%,Medium
+1457,Pseudo-Palindromic Paths in a Binary Tree,68.3%,Medium
+1483,Kth Ancestor of a Tree Node,35.7%,Hard
+1485,Clone Binary Tree With Random Pointer,80.9%,Medium
+1506,Find Root of N-Ary Tree,78.4%,Medium
+1522,Diameter of N-Ary Tree,75.1%,Medium
+1530,Number of Good Leaf Nodes Pairs,71.8%,Medium
+1569,Number of Ways to Reorder Array to Get Same BST,53.6%,Hard
+1586,Binary Search Tree Iterator II,63.2%,Medium
+1609,Even Odd Tree,66.5%,Medium
+1644,Lowest Common Ancestor of a Binary Tree II,68.7%,Medium
+1650,Lowest Common Ancestor of a Binary Tree III,82.4%,Medium
+1676,Lowest Common Ancestor of a Binary Tree IV,79.1%,Medium
+1740,Find Distance in a Binary Tree,74.0%,Medium
+1932,Merge BSTs to Create Single BST,35.8%,Hard
+1973,Count Nodes Equal to Sum of Descendants,77.0%,Medium
+2003,Smallest Missing Genetic Value in Each Subtree,46.4%,Hard
+2096,Step-By-Step Directions From a Binary Tree Node to Another,56.3%,Medium
+2236,Root Equals Sum of Children,84.9%,Easy
+2265,Count Nodes Equal to Average of Subtree,86.4%,Medium
+2331,Evaluate Boolean Binary Tree,82.4%,Easy
+2368,Reachable Nodes With Restrictions,59.5%,Medium
+2385,Amount of Time for Binary Tree to Be Infected,63.6%,Medium
+2458,Height of Binary Tree After Subtree Removal Queries,54.9%,Hard
+2467,Most Profitable Path in a Tree,67.6%,Medium
+2471,Minimum Number of Operations to Sort a Binary Tree by Level,74.3%,Medium
+2476,Closest Nodes Queries in a Binary Search Tree,42.5%,Medium
+2477,Minimum Fuel Cost to Report to the Capital,64.4%,Medium
+2583,Kth Largest Sum in a Binary Tree,59.3%,Medium
+2603,Collect Coins in a Tree,35.9%,Hard
+2646,Minimize the Total Price of the Trips,45.9%,Hard
+2791,Count Paths That Can Form a Palindrome in a Tree,45.4%,Hard
+2920,Maximum Points After Collecting Coins From All Nodes,35.7%,Hard
+2973,Find Number of Coins to Place in Tree Nodes,36.3%,Hard
+3068,Find the Maximum Sum of Node Values,69.8%,Hard
+3203,Find Minimum Diameter After Merging Two Trees,57.4%,Hard
+3372,Maximize the Number of Target Nodes After Connecting Trees I,69.7%,Medium
+3373,Maximize the Number of Target Nodes After Connecting Trees II,73.2%,Hard
+3558,Number of Ways to Assign Edge Weights I,54.8%,Medium
